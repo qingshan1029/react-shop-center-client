@@ -4,8 +4,8 @@ import axios from 'axios'
 import qs from 'qs'
 import paypalConfig from '../../configs/paypalConfig'
 
-//const URL = 'https://zack-ecommerce-nodejs.herokuapp.com'
-const URL = 'http://192.168.1.52:5000' //kkj(Server-IP Address)
+const URL = 'https://qingshan-shopping-server.netlify.com'
+//const URL = 'http://192.168.1.52:5000' //kkj(Server-IP Address)
 console.log('login-success  ')
 const serverCall = (config) => {
   //header authorization

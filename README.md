@@ -20,12 +20,12 @@ back-end: Node.js, Express, Restful API, paypal-sdk, mongodb, mongoose, jwt(json
 npm install
 
 npm start
-
+F192.
 port: 3001
 
 ### Note
 
-if error occurs during installing, install visual studio 2017
+if error occurs during installing, install visual studio 2017F
 
 ## snapshots
 yet ready is not
